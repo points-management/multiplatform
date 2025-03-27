@@ -1,2 +1,8 @@
 # Default owners
-* @PassionPenguin @308081164
+* @points-management/core
+
+/lib/ @points-management/multiplatform
+/android/ @points-management/multiplatform
+/ios/ @points-management/multiplatform
+/test/ @points-management/multiplatform
+/pubspec* @points-management/multiplatform
